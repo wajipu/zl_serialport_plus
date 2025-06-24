@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "D:\\study\\zl_serialport_plus\\serialportlib\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Program Files\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\study\\zl_serialport_plus\\serialportlib\\.cxx\\RelWithDebInfo\\1r245w4j\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Program Files\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\study\\zl_serialport_plus\\serialportlib\\.cxx\\RelWithDebInfo\\1r245w4j\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "serial-port::@6890427a1f51a3e7e1df": {
+      "artifactName": "serial-port",
+      "abi": "x86",
+      "output": "D:\\study\\zl_serialport_plus\\serialportlib\\build\\intermediates\\cxx\\RelWithDebInfo\\1r245w4j\\obj\\x86\\libserial-port.so",
+      "runtimeFiles": []
+    }
+  }
+}

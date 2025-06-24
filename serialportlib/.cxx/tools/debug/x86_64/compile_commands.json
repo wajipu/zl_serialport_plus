@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/study/zl_serialport_plus/serialportlib/.cxx/Debug/5n295o86/x86_64",
+  "command": "\"D:\\Program Files\\Android\\Sdk\\ndk\\27.0.12077973\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe\" --target=x86_64-none-linux-android24 --sysroot=\"D:/Program Files/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/windows-x86_64/sysroot\" -Dserial_port_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles\\serial-port.dir\\src\\main\\cpp\\serial-port.cpp.o -c D:\\study\\zl_serialport_plus\\serialportlib\\src\\main\\cpp\\serial-port.cpp",
+  "file": "D:\\study\\zl_serialport_plus\\serialportlib\\src\\main\\cpp\\serial-port.cpp"
+}
+]
